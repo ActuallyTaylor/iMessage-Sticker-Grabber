@@ -2,7 +2,7 @@
 
 A shell script that lets you collect all of the recently used stickers from iMessage on your Mac! It is super useful to retrieve [Genmoji](https://support.apple.com/en-my/guide/mac-help/dev73add4d3e/mac), or [Memoji](https://support.apple.com/en-us/111115) with a **transparent** background!
 
-This script [requires Full Disk Access](#Enable Full Disk Access for your Terminal). This must be granted to the terminal you are executing the shell script within. You **should** revoke this access after running the script. 
+This script requires [Full Disk Access](https://support.apple.com/guide/security/controlling-app-access-to-files-secddd1d86a6/web). This must be granted to the terminal you are executing the shell script within. You **should** revoke this access after running the script. 
 
 ## How to use
 ### Enable Full Disk Access for your Terminal
